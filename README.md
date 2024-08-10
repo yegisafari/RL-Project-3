@@ -26,10 +26,24 @@ Visualizing the Learned Policies: After training, I plotted the policies that Sa
 
 **Rewards Per Episode:** I also tracked the sum of rewards for each episode, so you can see how the agent’s learning progresses over time.
 
+
 ### Random Walk Results
 **Value Function Heatmaps:** I visualized the value functions that I got from Gradient Monte Carlo, Semi-Gradient TD(0), and the exact solution. It was pretty cool to see the differences and similarities.
 
 **Policy Visualization:** I also plotted the policies derived from these value functions to compare how well each method performed.
+
+
+
+### Doing this Project I got help from:
+
+1. The class lectures content
+2. YouTube
+3. These websites:
+
+(https://www.cs.mcgill.ca/~dprecup/courses/Winter2022/Lectures/10-prediction-fa-2022.pdf)
+
+(https://jmlr.org/papers/volume21/19-346/19-346.pdf)
+
 
 ### Contributing
 If you’ve got any ideas to improve this project or if you find a bug, I’d love to hear from you! Feel free to fork the repo, make your changes, and submit a pull request. Let’s make this project even better together.
